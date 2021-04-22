@@ -1,3 +1,3 @@
 # Yorkshire-Discord-Docs
 
-![Discord Banner 2](https://discordapp.com/api/guilds/191940906079748096/widget.png?style=banner2)
+![Discord Banner 2](https://discordapp.com/api/guilds/686365964853444616/widget.png?style=banner2)
