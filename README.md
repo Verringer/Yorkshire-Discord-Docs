@@ -1,1 +1,1 @@
-![Discord Banner 2](https://discordapp.com/api/guilds/686365964853444616/widget.png?style=banner2)
+[![Discord Banner 2](https://discordapp.com/api/guilds/686365964853444616/widget.png?style=banner2)](https://discord.gg/Mz6sX5f)
